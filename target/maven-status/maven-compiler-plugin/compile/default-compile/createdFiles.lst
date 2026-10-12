@@ -1,0 +1,8 @@
+com\example\registration\RegistrationResponse.class
+com\example\registration\RegistrationRequest.class
+com\example\registration\UnderageRegistrationException.class
+com\example\registration\RegistrationApplication.class
+com\example\registration\RegistrationController.class
+com\example\registration\RegistrationProperties.class
+com\example\registration\RegistrationExceptionHandler$RegistrationError.class
+com\example\registration\RegistrationExceptionHandler.class
